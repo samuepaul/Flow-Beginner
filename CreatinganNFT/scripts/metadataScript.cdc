@@ -1,5 +1,5 @@
-import NonFungibleToken from 0x07
-import CryptoPoops from 0x07
+import NonFungibleToken from 0x05
+import CryptoPoops from 0x06
 
 // Main script function to retrieve NFT metadata
 // based on the Id from an account's public collection

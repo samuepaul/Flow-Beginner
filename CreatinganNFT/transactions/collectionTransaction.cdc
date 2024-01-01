@@ -1,4 +1,4 @@
-import CryptoPoops from 0x07
+import CryptoPoops from 0x05
 
 transaction() {
   prepare(signer: AuthAccount) {

@@ -1,5 +1,5 @@
-import NonFungibleToken from 0x07
-import CryptoPoops from 0x07
+import NonFungibleToken from 0x05
+import CryptoPoops from 0x06
 
 transaction(recipientAccount: Address, _name: String, _favFood: String, _luckyNo: Int) {
   prepare(signer: AuthAccount) {
