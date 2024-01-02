@@ -1,5 +1,5 @@
 import NonFungibleToken from 0x05
-import CryptoPoops from 0x06
+import CryptoPoops from 0x05
 
 // Main script function to retrieve NFT IDs from an account's public collection
 pub fun main(acctAddress: Address): [UInt64] {
